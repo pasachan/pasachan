@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasachan
 - 👀 I’m interested in electronics especially embedded systems also software development using JavaScript frameworks (Reactjs NestJs)
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning C++ and embedded systems
 - 💞️ I’m looking to collaborate on any electronics and embedded systems related projects
 - 📫 contact me at pareekshit.sachan@gmail.com
 - ⚡ Fun fact: A single modern microprocessor can contain billions of transistors (In my opinion this is the closest to magic we have gotten)
