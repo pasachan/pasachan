@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @pasachan
-- 👀 I’m interested in electronics especially embedded systems also software development using JavaScript frameworks (Reactjs NestJs)
-- 🌱 I’m currently learning Swift and IOS development
+- 👀 I’m interested in robotics and embedded systems. 
+- 🌱 I’m currently learning AI/ML. 
 - 💞️ I’m looking to collaborate on any electronics and embedded systems related projects
 - 📫 contact me at pareekshit.sachan@gmail.com
-- ⚡ Fun fact: A single modern microprocessor can contain billions of transistors (In my opinion this is the closest to magic we have gotten)
+- ⚡ Fun fact: I can explain Gram-Schmidt in less time than it takes to brew coffee ☕
 
 <!---
 pasachan/pasachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
