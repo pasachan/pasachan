@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @pasachan
-- 👀 I’m interested in robotics and embedded systems. 
-- 🌱 I’m currently learning AI/ML. 
-- 💞️ I’m looking to collaborate on any electronics and embedded systems related projects
+- 👀 I’m interested in robotics, embedded systems, networking, IoT. 
+- 🌱 I’m currently persuing my masters. 
+- 💞️ I’m looking to collaborate on any IoT, Network related projects
 - 📫 contact me at pareekshit.sachan@gmail.com
-- ⚡ Fun fact: I can explain Gram-Schmidt in less time than it takes to brew coffee ☕
+- ⚡ Fun fact: You only get once chance to live, make it count. 
 
 <!---
 pasachan/pasachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
